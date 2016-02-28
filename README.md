@@ -5,34 +5,30 @@ An android app that allows a user to view their Twitter timeline and post a new 
 Time spent: 10 hours spent in total
 
 ## User Stories
-User Stories:
 
-The following user stories must be completed:
-
-Includes all required user stories from Week 3 Twitter Client
--[x] User can switch between Timeline and Mention views using tabs. (4 points)
--[x] User can view their home timeline tweets.
--[x] User can view the recent mentions of their username.
--[x] User can navigate to view their own profile (3 points)
--[x] User can see picture, tagline, # of followers, # of following, and tweets on their profile.
--[x] User can click on the profile image in any tweet to see another user's profile. (2 points)
--[x] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
--[x] Profile view should include that user's timeline
--[ ] Optional: User can view following / followers list through the profile
--[x] User can infinitely paginate any of these timelines (home, mentions, user) by scrolling to the bottom (1 point)
+- [x] User can switch between Timeline and Mention views using tabs. (4 points)
+- [x] User can view their home timeline tweets.
+- [x] User can view the recent mentions of their username.
+- [x] User can navigate to view their own profile (3 points)
+- [x] User can see picture, tagline, # of followers, # of following, and tweets on their profile.
+- [x] User can click on the profile image in any tweet to see another user's profile. (2 points)
+- [x] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
+- [x] Profile view should include that user's timeline
+- [ ] Optional: User can view following / followers list through the profile
+- [x] User can infinitely paginate any of these timelines (home, mentions, user) by scrolling to the bottom (1 point)
 
 The following advanced user stories are optional:
 
--[ ] Advanced: Robust error handling, check if internet is available, handle error cases, network failures (1 point)
--[x] Advanced: When a network request is sent, user sees an indeterminate progress indicator (1 point)
--[x] Advanced: User can "reply" to any tweet on their home timeline (1 point)
--[x] The user that wrote the original tweet is automatically "@" replied in compose (1 point)
+- [ ] Advanced: Robust error handling, check if internet is available, handle error cases, network failures (1 point)
+- [x] Advanced: When a network request is sent, user sees an indeterminate progress indicator (1 point)
+- [x] Advanced: User can "reply" to any tweet on their home timeline (1 point)
+- [x] The user that wrote the original tweet is automatically "@" replied in compose (1 point)
 Advanced: User can click on a tweet to be taken to a "detail view" of that tweet (1 point)
--[x] Advanced: User can take favorite (and unfavorite) or retweet actions on a tweet (1 point)
--[x] Advanced: Improve the user interface and theme the app to feel "twitter branded" (1 to 5 points)
+- [x] Advanced: User can take favorite (and unfavorite) or retweet actions on a tweet (1 point)
+- [x] Advanced: Improve the user interface and theme the app to feel "twitter branded" (1 to 5 points)
 Advanced: User can search for tweets matching a particular query and see results (2 points)
 Bonus: Use Parcelable instead of Serializable using the popular Parceler library. (1 point)
--[x] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
+- [x] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
 Bonus: User can view their Twitter direct messages (and/or send new ones) (2 points)efactory.com/blog/get-to-know-glide-recommended-by-google/en) for more efficient image rendering.
 
 The following **additional** features are implemented:
