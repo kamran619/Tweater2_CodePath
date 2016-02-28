@@ -33,13 +33,11 @@ The following advanced user stories are optional:
 
 The following **additional** features are implemented:
 
-- [x] User can favorite tweets
-- [x] User can retweet tweets
-- [x] Fetches current user data to get profile image and name
+- [x] Use a single fragment with a recyclerview for the User Timeline, Mentions, Home TimeLine and Profiles
+- [x] Ensure clicking on a profile when on the current users profile does not trigger an additional activity
 - [x] Use Gson to store UserData into shared preferences
 - [x] Add a layer of abstraction on top our TwitterClient to hide some ugliness
 - [x] Add a way to use mock data from save json files so I wouldn't hit the rate limiter
-- [x] Allow the user to unfavorite a tweet
 
 ## Video Walkthrough 
 
