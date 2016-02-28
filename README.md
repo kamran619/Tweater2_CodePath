@@ -23,13 +23,13 @@ The following advanced user stories are optional:
 - [x] Advanced: When a network request is sent, user sees an indeterminate progress indicator (1 point)
 - [x] Advanced: User can "reply" to any tweet on their home timeline (1 point)
 - [x] The user that wrote the original tweet is automatically "@" replied in compose (1 point)
-Advanced: User can click on a tweet to be taken to a "detail view" of that tweet (1 point)
+- [ ] Advanced: User can click on a tweet to be taken to a "detail view" of that tweet (1 point)
 - [x] Advanced: User can take favorite (and unfavorite) or retweet actions on a tweet (1 point)
 - [x] Advanced: Improve the user interface and theme the app to feel "twitter branded" (1 to 5 points)
-Advanced: User can search for tweets matching a particular query and see results (2 points)
-Bonus: Use Parcelable instead of Serializable using the popular Parceler library. (1 point)
+- [ ] Advanced: User can search for tweets matching a particular query and see results (2 points)
+- [ ] Bonus: Use Parcelable instead of Serializable using the popular Parceler library. (1 point)
 - [x] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
-Bonus: User can view their Twitter direct messages (and/or send new ones) (2 points)efactory.com/blog/get-to-know-glide-recommended-by-google/en) for more efficient image rendering.
+- [ ] Bonus: User can view their Twitter direct messages (and/or send new ones) (2 points)efactory.com/blog/get-to-know-glide-recommended-by-google/en) for more efficient image rendering.
 
 The following **additional** features are implemented:
 
